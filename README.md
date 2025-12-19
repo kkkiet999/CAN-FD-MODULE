@@ -7,6 +7,6 @@ I am using the dsPIC33CK256MC502 to create a CAN FD module for testing CAN FD in
 * A CAN FD debug module with 3 LEDs and 3 buttons for toggle control.
 
 ## Video Demo
-You can watch a quick demonstration of the module's functionality here:  
-[![](https://youtu.be/tIsWq5jTxoc?si=ircuvuIfoX7N4Fhm)](https://youtu.be/tIsWq5jTxoc?si=ircuvuIfoX7N4Fhm)
+You can watch a quick demonstration of the module's functionality here: [Video demo](https://youtu.be/tIsWq5jTxoc?si=ircuvuIfoX7N4Fhm)
+
 
